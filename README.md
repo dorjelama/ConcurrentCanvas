@@ -2,8 +2,6 @@
 
 This repository contains examples and demonstrations of various parallel programming concepts in C# using the .NET framework.
 
-## Table of Contents
-
 - [Parallel Programming Examples](#parallel-programming-examples)
   - [1. Parallelizing Loops with Parallel.ForEach](#1-parallelizing-loops-with-parallelforeach)
   - [2. Asynchronous Operations with Task](#2-asynchronous-operations-with-task)
